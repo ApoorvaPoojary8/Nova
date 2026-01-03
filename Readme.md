@@ -44,19 +44,15 @@ Media queries are used to adjust layout, typography, and element sizing for smal
 ---
 
 ## 📂 Project Structure
-```
 
+```text
 nova/
-│
 ├── index.html
 ├── style.css
-├── video/
-│   └── hero-video.mp4
-└── README.md
+├── README.md
+└── video/
+    └── hero-video.mp4
 
-```
-
----
 
 ## 🎯 Learning Outcomes
 - Mastery of CSS Grid layouts
