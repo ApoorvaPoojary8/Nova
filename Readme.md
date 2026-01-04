@@ -9,7 +9,7 @@ The project showcases a contemporary UI inspired by high-end fashion and editori
 ---
 
 ## 🚀 Live Demo
-> (Add GitHub Pages link here after deployment)
+> https://apoorvapoojary8.github.io/Nova/
 
 ---
 
@@ -25,11 +25,11 @@ The project showcases a contemporary UI inspired by high-end fashion and editori
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5**
-- **CSS3**
+- HTML5
+- CSS3
   - CSS Grid
   - Media Queries
-- **Remix Icon** (icons)
+- Remix Icon (icons)
 
 ---
 
@@ -74,11 +74,7 @@ Computer Science Student
 
 ---
 
-## 📜 License
-This project is open-source and intended for learning and personal use.
-```
 
----
 
 
 
